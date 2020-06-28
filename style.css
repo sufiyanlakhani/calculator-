@@ -1,0 +1,72 @@
+.main{
+    border: 2px solid teal;
+    width: 200px;
+    margin: 0 auto;
+}
+.input{
+    background-color:teal;
+    width: 100%;
+    height: 50px;
+    color: white;
+
+}
+  
+
+.btn-dark{
+
+    margin-top: 5px;
+    width: 40px;
+    margin: 2.8px;
+}
+.btn-dark:hover{
+    background-color: teal !important;
+    transition: 0.5s;
+}
+
+
+.abc1{
+    width: 90px;
+    margin: 1px;
+    margin-top: 10px;
+    margin-left: 2.2px;
+    background-color:teal !important;
+}
+.abc1:hover{
+    color: black !important;
+}
+.abc2{
+   width: 41px;
+   margin-top: 12px !important;
+   padding: 5px;
+   margin-left: 4px !important;
+   margin: 2px;
+}
+.abc3{
+ width: 41px;
+ margin-top: 12px !important;
+ padding: 5px;
+ margin-left: 4px !important;
+ margin: 2px;
+
+    }
+
+.def{
+    margin: 2.8px;
+}
+
+.xyz2{
+color:white !important;
+}
+.xyz3{
+    width: 90px;
+    margin: 2.5px;
+    background-color: teal !important;
+}
+.xyz3:hover{
+    color: black !important;
+}
+.icon{
+    width: 20px;
+    height: 20px;
+    margin-bottom: 2px;
+}
